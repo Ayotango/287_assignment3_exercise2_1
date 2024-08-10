@@ -4,6 +4,7 @@
   "description": "",
   "main": "numOfVisits.js",
   "scripts": {
+    "start": "node numOfVisits.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
